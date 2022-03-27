@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: 312df75a-88ed-99bf-6435-5c8d6f25e8d8
 resourcetype: Document
 title: lec2_resampling.pdf
 uid: 0ee10050-727d-ae69-d0bf-74c0f53106b1

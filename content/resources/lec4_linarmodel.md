@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: 312df75a-88ed-99bf-6435-5c8d6f25e8d8
 resourcetype: Document
 title: lec4_linarmodel.pdf
 uid: ce3cb57e-f4b9-c849-bbf0-48e47e77380f
