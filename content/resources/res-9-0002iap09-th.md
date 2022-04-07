@@ -9,6 +9,7 @@ image_metadata:
   image-alt: An abstract graphic showing a chart overlaid with a map.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: res-9-0002iap09-th.jpg
 uid: 0d5b2f70-b30b-cf15-39af-15211b341036
