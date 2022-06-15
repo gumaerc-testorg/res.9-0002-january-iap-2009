@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: Course Meeting Times, Prerequisites, Course Outline, Supplementary References,
+  and Calendar.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Syllabus
 uid: 1879499e-281b-06a3-292b-57fdc2515cad
 ---

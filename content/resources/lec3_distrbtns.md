@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/1dd37dffc4d011ad05184942d892ca46_lec3_distrbtns.pdf
+file: /courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/1dd37dffc4d011ad05184942d892ca46_lec3_distrbtns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
