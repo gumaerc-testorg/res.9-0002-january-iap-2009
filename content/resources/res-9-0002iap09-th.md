@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/0d5b2f70b30bcf1539af15211b341036_res-9-0002iap09-th.jpg
+file: /courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/0d5b2f70b30bcf1539af15211b341036_res-9-0002iap09-th.jpg
 file_size: 10555
 file_type: image/jpeg
 image_metadata:
