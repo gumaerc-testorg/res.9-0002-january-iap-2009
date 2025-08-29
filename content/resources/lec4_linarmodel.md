@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/ce3cb57ef4b9c849bbf048e47e77380f_lec4_linarmodel.pdf
+file: /ol-ocw-studio-app/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/ce3cb57ef4b9c849bbf048e47e77380f_lec4_linarmodel.pdf
 file_size: 3587691
 file_type: application/pdf
 learning_resource_types:
